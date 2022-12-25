@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class overcoat", "class overcoat.vcxproj", "{DAF3F759-901C-40C4-BF72-ECA8B7AC07C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF3F759-901C-40C4-BF72-ECA8B7AC07C3}.Debug|x64.ActiveCfg = Debug|x64
+		{DAF3F759-901C-40C4-BF72-ECA8B7AC07C3}.Debug|x64.Build.0 = Debug|x64
+		{DAF3F759-901C-40C4-BF72-ECA8B7AC07C3}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAF3F759-901C-40C4-BF72-ECA8B7AC07C3}.Debug|x86.Build.0 = Debug|Win32
+		{DAF3F759-901C-40C4-BF72-ECA8B7AC07C3}.Release|x64.ActiveCfg = Release|x64
+		{DAF3F759-901C-40C4-BF72-ECA8B7AC07C3}.Release|x64.Build.0 = Release|x64
+		{DAF3F759-901C-40C4-BF72-ECA8B7AC07C3}.Release|x86.ActiveCfg = Release|Win32
+		{DAF3F759-901C-40C4-BF72-ECA8B7AC07C3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3EFA866-79FA-49E3-B2FB-F12506DFC48C}
+	EndGlobalSection
+EndGlobal
