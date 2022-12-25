@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="class overcoat.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="overcoat.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="overcoat.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
