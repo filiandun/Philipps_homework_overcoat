@@ -31,7 +31,7 @@ bool Overcoat::operator>(const Overcoat& o) const
 	{
 		return this->price > o.price;
 	}
-	exit(this->type == o.type);
+	exit(0); // не особо мне нравится такая реализация, но только это в голову пришло
 }
 
 
